@@ -8,3 +8,4 @@
 ## JavaScript
 - [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away)
+- [获取网站根域名](https://github.com/AngusFu/blog/blob/master/source/_posts/get-root-domain-of-a-site.md)
