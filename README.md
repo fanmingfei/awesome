@@ -11,3 +11,4 @@
 - [How To Build A Math Expression Tokenizer Using Javascript](https://medium.freecodecamp.com/how-to-build-a-math-expression-tokenizer-using-javascript-3638d4e5fbe9)
 - [获取网站根域名](https://github.com/AngusFu/blog/blob/master/source/_posts/get-root-domain-of-a-site.md)
 - [浏览器中的 ES6 module 实现](http://zcfy.cc/article/ecmascript-modules-in-browsers-2744.html)
+- [图说 WebAssembly](https://fanmingfei.com/posts/WebAssembly_Cartoon_Introduce.html)
