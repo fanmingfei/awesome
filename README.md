@@ -12,3 +12,4 @@
 - [获取网站根域名](https://github.com/AngusFu/blog/blob/master/source/_posts/get-root-domain-of-a-site.md)
 - [浏览器中的 ES6 module 实现](http://zcfy.cc/article/ecmascript-modules-in-browsers-2744.html)
 - [图说 WebAssembly](https://fanmingfei.com/posts/WebAssembly_Cartoon_Introduce.html)
+- [Node.js programs versus C++ g++](https://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=node&lang2=gpp)
