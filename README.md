@@ -13,3 +13,10 @@
 - [浏览器中的 ES6 module 实现](http://zcfy.cc/article/ecmascript-modules-in-browsers-2744.html)
 - [图说 WebAssembly](https://fanmingfei.com/posts/WebAssembly_Cartoon_Introduce.html)
 - [Node.js programs versus C++ g++](https://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=node&lang2=gpp)
+
+## Other
+- [Using HTTPs with Custom Domain Name on GitHub Pages](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html)
+
+
+## Android
+- [为什么Google Play应用商店里搜索不到你的App？无法在Google Play上找到应用?](http://oyangwin.blogspot.hk/2015/10/google-playappgoogle-play.html)
