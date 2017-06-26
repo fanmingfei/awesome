@@ -14,6 +14,7 @@
 - [图说 WebAssembly](https://fanmingfei.com/posts/WebAssembly_Cartoon_Introduce.html)
 - [Node.js programs versus C++ g++](https://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=node&lang2=gpp)
 - [CSS Animations vs Web Animations API](https://css-tricks.com/css-animations-vs-web-animations-api/?utm_source=frontendfocus&utm_medium=email)
+- [正则表达式回溯法原理](https://zhuanlan.zhihu.com/p/27417442)
 
 ## Other
 - [Using HTTPs with Custom Domain Name on GitHub Pages](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html)
