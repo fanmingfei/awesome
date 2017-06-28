@@ -1,6 +1,10 @@
 # awesome
 值得收藏的内容
 
+## HTML
+[Form Validation Part 1: Constraint Validation in HTML](https://css-tricks.com/form-validation-part-1-constraint-validation-html/?utm_source=frontendfocus&utm_medium=email)
+
+
 ## CSS
 - [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
 
