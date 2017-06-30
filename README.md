@@ -22,6 +22,7 @@
 
 ## Other
 - [Using HTTPs with Custom Domain Name on GitHub Pages](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html)
+- [Introducing HumbleNet: a cross-platform networking library that works in the browser](https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-networking-library-that-works-in-the-browser/)
 
 
 ## Android
