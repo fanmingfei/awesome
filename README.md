@@ -19,6 +19,9 @@
 - [Node.js programs versus C++ g++](https://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=node&lang2=gpp)
 - [CSS Animations vs Web Animations API](https://css-tricks.com/css-animations-vs-web-animations-api/?utm_source=frontendfocus&utm_medium=email)
 - [正则表达式回溯法原理](https://zhuanlan.zhihu.com/p/27417442)
+- [整合鼠标、触摸 和触控笔事件的Html5 Pointer Event Api](https://juejin.im/post/594e06f2f265da6c2f0a841d)
+- [React 小书](http://huziketang.com/books/react/lesson1)
+
 
 ## Other
 - [Using HTTPs with Custom Domain Name on GitHub Pages](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html)
