@@ -21,6 +21,7 @@
 - [正则表达式回溯法原理](https://zhuanlan.zhihu.com/p/27417442)
 - [整合鼠标、触摸 和触控笔事件的Html5 Pointer Event Api](https://juejin.im/post/594e06f2f265da6c2f0a841d)
 - [React 小书](http://huziketang.com/books/react/lesson1)
+- [WebAssembly 周报](https://github.com/WebAssembly-cn/weekly)
 
 
 ## Other
