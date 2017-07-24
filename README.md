@@ -23,6 +23,7 @@
 - [React 小书](http://huziketang.com/books/react/lesson1)
 - [WebAssembly 周报](https://github.com/WebAssembly-cn/weekly)
 - [回调函数是什么](http://www.zcfy.cc/article/back-to-basics-what-are-callbacks-in-javascript-mdash-sitepoint-3450.html)
+- [JavaScript中的this](https://juejin.im/post/59748cbb6fb9a06bb21ae36d?utm_source=weixinqun&utm_medium=fethisinJS)
 
 
 ## Other
