@@ -25,6 +25,10 @@
 - [回调函数是什么](http://www.zcfy.cc/article/back-to-basics-what-are-callbacks-in-javascript-mdash-sitepoint-3450.html)
 - [JavaScript中的this](https://juejin.im/post/59748cbb6fb9a06bb21ae36d?utm_source=weixinqun&utm_medium=fethisinJS)
 - [ES8 已经发布的一些主要的新特性🔥](http://www.zcfy.cc/article/es8-was-released-and-here-are-its-main-new-features-3563.html)
+- [JavaScript 浮点](https://mp.weixin.qq.com/s/5PREUfyo4dYGAFDzNUonlg)
+
+## Animation
+- [网页动画性能日志（一）](https://imwineki.cn/post/WebPerformanceCalendar.html)
 
 ## Other
 - [Using HTTPs with Custom Domain Name on GitHub Pages](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html)
