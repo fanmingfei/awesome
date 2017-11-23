@@ -41,3 +41,4 @@
 - [为什么Google Play应用商店里搜索不到你的App？无法在Google Play上找到应用?](http://oyangwin.blogspot.hk/2015/10/google-playappgoogle-play.html)
 - [解决Error:Could not determine the class-path for interface com.android.builder.model.AndroidProject.](http://blog.csdn.net/qq_21397217/article/details/65630730)
 - [Android：你要的WebView与 JS 交互方式 都在这里了](http://blog.csdn.net/carson_ho/article/details/64904691)
+- [Android Notification 详解](https://www.cnblogs.com/travellife/p/Android-Notification-xiang-jie.html)
