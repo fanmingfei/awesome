@@ -30,6 +30,14 @@
 - [网页动画性能日志（一）](https://imwineki.cn/post/WebPerformanceCalendar.html)
 - [CSS Animations vs Web Animations API](https://css-tricks.com/css-animations-vs-web-animations-api/?utm_source=frontendfocus&utm_medium=email)
 
+## WebAccessibility
+- [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria-1.1/)
+- [vue-a11y-utils](https://jinjiang.github.io/vue-a11y-utils/#)
+- [WAI-ARIA Authoring Practices 1.1 中文版](https://www.chengrang.com/a11y/aria-practices/aria-practices.html#intro)
+- [Google Developers Fundamentals Accessibility](https://developers.google.com/web/fundamentals/accessibility/?hl=zh-cn)
+- [webaccessibility.guide](https://webaccessibility.guide/)
+- [Nutrition Cards for Accessible Components](https://davatron5000.github.io/a11y-nutrition-cards/)
+
 ## Other
 - [Using HTTPs with Custom Domain Name on GitHub Pages](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html)
 - [Introducing HumbleNet: a cross-platform networking library that works in the browser](https://hacks.mozilla.org/2017/06/introducing-humblenet-a-cross-platform-networking-library-that-works-in-the-browser/)
